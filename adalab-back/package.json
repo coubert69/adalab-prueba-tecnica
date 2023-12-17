@@ -1,0 +1,21 @@
+{
+  "name": "adalab-back",
+  "version": "1.0.0",
+  "description": "Custom Api like PokeAPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Murcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mysql2": "3.6.5",
+    "swagger-jsdoc": "6.2.8",
+    "swagger-ui-express": "5.0.0"
+  },
+  "devDependencies": {
+    "axios": "^1.6.2"
+  }
+}
